@@ -1,4 +1,4 @@
-# Ksenia Fullstack Landing
+# Fullstack Landing
 
 Небольшой лендинг-презентация junior/fullstack-разработчика.
 
